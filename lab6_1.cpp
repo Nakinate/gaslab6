@@ -23,7 +23,6 @@ int main(){
        
         y++ ;
     }
-    
    
     cout << "#Even numbers = "<<z-1;
     cout << "\n#Odd numbers = "<<q;
